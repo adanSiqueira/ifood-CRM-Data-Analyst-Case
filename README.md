@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://carlosbonfim.com/pages/Projeto_Segmentação_clientes_food_delivery-Final.html" >
+  <img src="https://carlosbonfim.com/pages/Projeto_Segmentação_clientes_food_delivery-Final.html](https://rcky.com.br/wp-content/uploads/2022/09/ifoodddsds-1024x682.jpg" >
 </p>
 
 <h2 align="center">
