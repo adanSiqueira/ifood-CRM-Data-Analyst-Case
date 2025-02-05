@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rcky.com.br/wp-content/uploads/2022/09/ifoodddsds-1024x682.jpg)](https://rcky.com.br/wp-content/uploads/2022/09/ifoodddsds-1024x682.jpg" >
+  <img src="https://github.com/adanSiqueira/ifood-CRM-Data-Analyst-Case/blob/main/ifoodddsds-1024x682.jpg" >
 </p>
 
 <h2 align="center">
