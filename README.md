@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://carlosbonfim.com/pages/Projeto_Segmentação_clientes_food_delivery-Final.html](https://rcky.com.br/wp-content/uploads/2022/09/ifoodddsds-1024x682.jpg" >
+  <img src="https://rcky.com.br/wp-content/uploads/2022/09/ifoodddsds-1024x682.jpg)](https://rcky.com.br/wp-content/uploads/2022/09/ifoodddsds-1024x682.jpg" >
 </p>
 
 <h2 align="center">
@@ -24,9 +24,9 @@ utilizando técnicas analíticas e de machine learning.
 
 ## 📄 Como este repositório está estruturado
 
-- Veja os dados utilizados [ESTIMATIVA POPULACIONAL NO BRASIL EM 2020](https://github.com/letpires/population_analysis_sc/blob/main/estimativa_dou_2020.csv);
-- Veja os dados utilizados [NASCIDOS VIVOS DE SANTA CATARINA 1994-2018](https://github.com/letpires/population_analysis_sc/blob/main/nascidos_vivos_sc_ano_mes_1994_2018.csv)
-- Leia o notebook do projeto [ANÁLISE POPULACIONAL DE SANTA CATARINA](https://github.com/letpires/population_analysis_sc/blob/main/projeto_analise_populacional_de_SC.ipynb).
+- Veja os dados utilizados [REGISTRO DE DADOS DE COMPRAS EM UMA CAMPANHA DE MARKETING - PROBLEMA PROPOSTO](https://www.kaggle.com/datasets/jackdaoud/marketing-data);
+- Veja os dados utilizados [DATASET](https://github.com/nailson/ifood-data-business-analyst-test/blob/master/README.md)
+- Leia o notebook do projeto [Analise de Dados: CRM iFood](https://github.com/adanSiqueira/ifood-CRM-Data-Analyst-Case/blob/main/CRM_iFood_Data_Analyst_Case_PT.ipynb).
 
 
 
