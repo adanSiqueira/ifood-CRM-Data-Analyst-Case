@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/adanSiqueira/ifood-CRM-Data-Analyst-Case/blob/main/ifoodddsds-1024x682.jpg" >
-</p>
-
 <h2 align="center">
   Case de Analise de Dados: CRM iFood
 </h2>
